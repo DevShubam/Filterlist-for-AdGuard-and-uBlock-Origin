@@ -1,0 +1,18 @@
+! Title: Test
+! Description: Test
+
+
+! Allowlists
+!#include https://raw.githubusercontent.com/DevShubam/Whitelist/master/whitelist.txt
+!#include https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_10_Useful/filter.txt
+!#include https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt
+
+! Blacklists
+!#include https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_English/filter.txt
+!#include https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
+!include https://easylist.to/easylist/easylist.txt
+!#include https://easylist.to/easylist/easyprivacy.txt
+!#include https://abp.oisd.nl/
+!#include https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
+!#include https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
+!#include https://easylist-downloads.adblockplus.org/antiadblockfilters.tx
